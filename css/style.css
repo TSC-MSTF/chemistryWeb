@@ -10303,3 +10303,8 @@ img{
 .logo {
 	max-width: 8em;
 }
+
+.mobilelogo  {
+	width: 5em;
+	vertical-align: text-top;
+}
