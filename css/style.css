@@ -10090,6 +10090,7 @@ img{
 	padding-left:30px;	
 }
 
+ 
 
 
 
@@ -10296,4 +10297,9 @@ img{
 .box-version,
 .rtl-version{
 	display:none;
+}
+
+
+.logo {
+	max-width: 8em;
 }
