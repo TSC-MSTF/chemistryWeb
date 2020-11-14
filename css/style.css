@@ -1595,7 +1595,7 @@ img{
 	font-size:14px;
 	font-weight:400;
 	line-height:1.7em;
-	text-transform:capitalize;
+	text-transform:lowercase;
 }
 
 .main-header .info-box li span{
@@ -10302,4 +10302,9 @@ img{
 
 .logo {
 	max-width: 8em;
+}
+
+.mobilelogo  {
+	width: 5em;
+	vertical-align: text-top;
 }
