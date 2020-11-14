@@ -2442,16 +2442,8 @@ img{
 	position:relative;
 	width:100%;
 	display:block;
-	transition:all 500ms ease;
-	-moz-transition:all 500ms ease;
-	-webkit-transition:all 500ms ease;
-	-ms-transition:all 500ms ease;
-	-o-transition:all 500ms ease;
 }
 
-.services-block .inner-box:hover .image img{
-	transform:scale(1.2,1.2);
-}
 
 .services-block .inner-box .lower-content{
 	position:relative;
